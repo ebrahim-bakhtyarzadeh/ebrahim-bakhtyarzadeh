@@ -1,8 +1,9 @@
 # Hi 👋, I'm ebrahim
 
-[![My Skills](https://skillicons.dev/icons?i=cs,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
+## Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=cs,gcp,azure,react,vue,flutter)](https://skillicons.dev)
 <!--
 **ebrahim-bakhtyarzadeh/ebrahim-bakhtyarzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
