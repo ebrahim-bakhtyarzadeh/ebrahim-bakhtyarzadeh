@@ -4,7 +4,7 @@
 
 **Languages and Tools:**
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
