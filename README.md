@@ -14,44 +14,5 @@
 </p>
 
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-</p>
-
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-</p>
-
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-</p>
-
-
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-</p>
-
-
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-</p>
 
 
