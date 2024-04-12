@@ -2,7 +2,7 @@
 
 
 
-**Languages and Tools:**
+### **Languages and Tools:**
  <span>
       <a href="https://skillicons.dev">
         <img
