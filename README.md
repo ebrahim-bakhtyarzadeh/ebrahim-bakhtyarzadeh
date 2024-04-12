@@ -4,4 +4,4 @@
 
 **Languages and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,gcp,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,git,dotnet,docker,js,html,css,bootstrap,mongodb,postman,visualstudio,vscode)](https://skillicons.dev)
